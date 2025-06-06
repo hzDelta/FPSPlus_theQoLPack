@@ -8,7 +8,7 @@ Major additions include:
 
   - *Chart is not 100% accurate.*
 
-- More Alt Instrumentals to choose from, like the placeholder versions of *Dad Battle (Pico Mix)* and *Guns (Pico Mix)*, or the 'LONER 2021' mix of *Ugh*.
+- More Alt Instrumentals to choose from, like the placeholder versions of *Dad Battle (Pico Mix)* and *Guns (Pico Mix)*, and the 'LONER 2021' mix of *Ugh*.
 
 - Re-added Pico-Dark's Hey animation, along with adding playAnim events to *Bopeebo (Pico Mix)*, *Dad Battle (Pico Mix)*, and *Spookeez (Pico Mix)*.
 
