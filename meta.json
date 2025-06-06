@@ -1,0 +1,14 @@
+{
+  "title": "FPS Plus: The QoL Pack",
+  "uid": "com.hzdelta.theqolpack",
+  "description": "Yeah, it's probably better to read the GameBanana description or wherever I post this.\n\nMade by hzDelta\nhttps://hzdelta.carrd.co/",
+  "contributors": [
+    {
+      "name": "hzDelta",
+      "role": "",
+      "url": "https://hzdelta.carrd.co/"
+    }
+  ],
+  "api_version": "1.5.0",
+  "mod_version": "1.0.0"
+}

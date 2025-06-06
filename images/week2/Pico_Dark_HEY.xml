@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico_Dark_HEY.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Pico HEY!!0000" x="0" y="0" width="516" height="479" frameX="0" frameY="0" frameWidth="514" frameHeight="479"/>
+	<SubTexture name="Pico HEY!!0001" x="0" y="0" width="516" height="479" frameX="0" frameY="0" frameWidth="514" frameHeight="479"/>
+	<SubTexture name="Pico HEY!!0002" x="0" y="479" width="491" height="478" frameX="0" frameY="-1" frameWidth="516" frameHeight="477"/>
+	<SubTexture name="Pico HEY!!0003" x="0" y="479" width="491" height="478" frameX="0" frameY="-1" frameWidth="516" frameHeight="477"/>
+	<SubTexture name="Pico HEY!!0004" x="516" y="0" width="501" height="479" frameX="0" frameY="0" frameWidth="516" frameHeight="477"/>
+	<SubTexture name="Pico HEY!!0005" x="516" y="0" width="501" height="479" frameX="0" frameY="0" frameWidth="516" frameHeight="477"/>
+	<SubTexture name="Pico HEY!!0006" x="516" y="0" width="501" height="479" frameX="0" frameY="0" frameWidth="516" frameHeight="477"/>
+	<SubTexture name="Pico HEY!!0007" x="516" y="0" width="501" height="479" frameX="0" frameY="0" frameWidth="516" frameHeight="477"/>
+</TextureAtlas>

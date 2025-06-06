@@ -1,0 +1,11 @@
+[
+	{
+		"op": "add", 
+		"path": "/songs/-", 
+		"value": {
+			"song": "Test",
+			"icon": "bf",
+			"categories": ["Secret"]
+		}
+	}
+]
