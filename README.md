@@ -12,6 +12,6 @@ Major additions include:
 
 - Minuscule re-charts of all of Pico's Week 1 remixes and *Spookeez (Pico Mix)*.
 
-  - *This is due to the aforementioned Hey animations and playAnim events and the ending to Fresh (Pico Mix).*
+  - *This is due to the aforementioned Hey animations, playAnim events, and the ending to Fresh (Pico Mix).*
 
 TODO: ADD GAMEPLAY SCREENSHOTS OF TEST, THE ALT INSTS, SPOOKEEZ PICO HEY, THE IN-GAME MOD MENU. WRITE THE HOW TO INSTALL SECTION (MAYBE COPY FROM REDUX?)
