@@ -4,7 +4,7 @@
 The QoL Pack is a Modpack for Friday Night Funkin': FPS Plus.
 
 Major additions include:
-- *Test* once again being playable, being recharted by myself as no chart file actually exists. You can access it in the 'Secret' tab in Freeplay.
+- *Test* finally being playable pn FPS Plus, being recharted by myself as no chart file actually exists. You can access it in the 'Secret' tab in Freeplay.
 
   - *Chart is not 100% accurate.*
 
