@@ -45,7 +45,7 @@ Feel free to remove the `art` folder along with the `.gitattributes` and `README
 
 ![Mod Menu](/art/screenshots/modMenu.png)
 
-![Dark-Pico Hey](/art/screenshots/darkPicoHey.png)
+![Pico-Dark Hey](/art/screenshots/picoDarkHey.png)
 
 ![Test](/art/screenshots/testFreeplay.png)
 
