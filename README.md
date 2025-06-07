@@ -15,5 +15,40 @@ Major additions include:
 - Minuscule re-charts of all of Pico's Week 1 remixes and *Spookeez (Pico Mix)*.
 
   - *This is due to the aforementioned Hey animations, playAnim events, and the ending to Fresh (Pico Mix).*
+ 
+# Installation
 
-TODO: ADD GAMEPLAY SCREENSHOTS OF TEST, THE ALT INSTS, SPOOKEEZ PICO HEY, THE IN-GAME MOD MENU. WRITE THE HOW TO INSTALL SECTION (MAYBE COPY FROM REDUX?)
+It's simple. Just click the green `<> Code` button up at the top and then click `Download ZIP` in the dropdown menu.
+
+Once the file finishes installing, extract the zip to the `mods` folder inside of your FPS Plus installation.
+
+---
+
+Your installation folder should look something like this:
+
+```
+-assets
+-manifest
+-plugins
+-mods
+ |-FPSPlus_theQoLPack-main        [<--- This is where you extracted the zip!]
+-alsoft.ini
+-FunkinFPSPlus.exe
+-libvlc.dll
+-libvlccore.dll
+-lime.ndll
+```
+
+Feel free to remove the `art` folder along with the `.gitattributes` and `README.md` files inside the modpack once you've installed it correctly.
+
+# Screenshots
+
+![Mod Menu](/art/screenshots/modMenu.png)
+
+![Dark-Pico Hey](/art/screenshots/darkPicoHey.png)
+
+![Test](/art/screenshots/testFreeplay.png)
+
+![Alternate Instrumentals](/art/screenshots/altInsts.png)
+
+TODO: ADD GAMEPLAY SCREENSHOTS OF TEST, THE ALT INSTS, SPOOKEEZ PICO HEY, THE IN-GAME MOD MENU. ~~WRITE THE HOW TO INSTALL SECTION (MAYBE COPY FROM REDUX?)~~
