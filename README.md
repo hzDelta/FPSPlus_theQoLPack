@@ -50,5 +50,3 @@ Feel free to remove the `art` folder along with the `.gitattributes` and `README
 ![Test](/art/screenshots/testFreeplay.png)
 
 ![Alternate Instrumentals](/art/screenshots/altInsts.png)
-
-TODO: ADD GAMEPLAY SCREENSHOTS OF TEST, THE ALT INSTS, SPOOKEEZ PICO HEY, THE IN-GAME MOD MENU. ~~WRITE THE HOW TO INSTALL SECTION (MAYBE COPY FROM REDUX?)~~
