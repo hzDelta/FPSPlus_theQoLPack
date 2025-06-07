@@ -41,6 +41,8 @@ Your installation folder should look something like this:
 
 Feel free to remove the `art` folder along with the `.gitattributes` and `README.md` files inside the modpack once you've installed it correctly.
 
+*This modpack is only compatible with Friday Night Funkin': FPS Plus [v7.1.1](https://github.com/ThatRozebudDude/FPS-Plus-Public/releases/tag/v7.1.1) or [newer](https://github.com/ThatRozebudDude/FPS-Plus-Public/releases).*
+
 # Screenshots
 
 ![Mod Menu](/art/screenshots/modMenu.png)
