@@ -1,7 +1,7 @@
 ![The QoL Pack Banner](/art/banner.png)
 
 # FPS Plus: The Quality of Life Pack
-The QoL Pack is a Modpack for [Friday Night Funkin': FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public).
+The QoL Pack is a Modpack for [Friday Night Funkin' FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public).
 
 Major additions include:
 - *Test* finally being playable on FPS Plus, being recharted by myself as no chart file actually exists. You can access it in the 'Secret' tab in Freeplay.
@@ -41,7 +41,7 @@ Your installation folder should look something like this:
 
 Feel free to remove the `art` folder along with the `.gitattributes` and `README.md` files inside the modpack once you've installed it correctly.
 
-*This modpack is only compatible with Friday Night Funkin': FPS Plus [v7.1.1](https://github.com/ThatRozebudDude/FPS-Plus-Public/releases/tag/v7.1.1) or [newer](https://github.com/ThatRozebudDude/FPS-Plus-Public/releases).*
+*This modpack is only compatible with Friday Night Funkin' FPS Plus [v7.1.1](https://github.com/ThatRozebudDude/FPS-Plus-Public/releases/tag/v7.1.1) or [newer](https://github.com/ThatRozebudDude/FPS-Plus-Public/releases).*
 
 # Screenshots
 
